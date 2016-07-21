@@ -463,3 +463,55 @@
 {"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T18:45:26.980Z"}
 {"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T18:45:27.572Z"}
 {"level":"debug","message":"System[M]: Worker [125] disconnected","timestamp":"2016-07-21T18:45:27.740Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:51.109Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-07-21T19:11:51.851Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:52.148Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:52.761Z"}
+{"level":"debug","message":"System[M]: Worker [1] disconnected","timestamp":"2016-07-21T19:11:52.990Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:53.294Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:53.891Z"}
+{"level":"debug","message":"System[M]: Worker [2] disconnected","timestamp":"2016-07-21T19:11:54.058Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:54.362Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:54.968Z"}
+{"level":"debug","message":"System[M]: Worker [3] disconnected","timestamp":"2016-07-21T19:11:55.141Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:55.449Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:56.050Z"}
+{"level":"debug","message":"System[M]: Worker [4] disconnected","timestamp":"2016-07-21T19:11:56.215Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:56.524Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:57.121Z"}
+{"level":"debug","message":"System[M]: Worker [5] disconnected","timestamp":"2016-07-21T19:11:57.292Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:57.598Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:58.202Z"}
+{"level":"debug","message":"System[M]: Worker [6] disconnected","timestamp":"2016-07-21T19:11:58.386Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:11:58.689Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:11:59.418Z"}
+{"level":"debug","message":"System[M]: Worker [7] disconnected","timestamp":"2016-07-21T19:11:59.593Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:37.677Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-07-21T19:12:38.205Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:38.514Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:39.109Z"}
+{"level":"debug","message":"System[M]: Worker [1] disconnected","timestamp":"2016-07-21T19:12:39.278Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:39.587Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:40.177Z"}
+{"level":"debug","message":"System[M]: Worker [2] disconnected","timestamp":"2016-07-21T19:12:40.339Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:40.649Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:41.238Z"}
+{"level":"debug","message":"System[M]: Worker [3] disconnected","timestamp":"2016-07-21T19:12:41.462Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:41.766Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:42.354Z"}
+{"level":"debug","message":"System[M]: Worker [4] disconnected","timestamp":"2016-07-21T19:12:42.521Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:42.828Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:43.432Z"}
+{"level":"debug","message":"System[M]: Worker [5] disconnected","timestamp":"2016-07-21T19:12:43.603Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:43.914Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:44.512Z"}
+{"level":"debug","message":"System[M]: Worker [6] disconnected","timestamp":"2016-07-21T19:12:44.685Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:45.000Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:45.593Z"}
+{"level":"debug","message":"System[M]: Worker [7] disconnected","timestamp":"2016-07-21T19:12:45.769Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:46.080Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:46.677Z"}
+{"level":"debug","message":"System[M]: Worker [8] disconnected","timestamp":"2016-07-21T19:12:46.846Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:47.151Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:47.745Z"}
+{"level":"debug","message":"System[M]: Worker [9] disconnected","timestamp":"2016-07-21T19:12:47.920Z"}
