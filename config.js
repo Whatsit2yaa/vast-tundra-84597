@@ -11,8 +11,7 @@
 
 module.exports = {
     "siteName": "Tribal Reconnection",
-    "siteRoot": "http://localhost:8080",
-    "sitePort": 8080,
+    "siteRoot": "http://www.tribal-reconnection.com",
     "logging": {
         "level": "debug"
     },
@@ -22,8 +21,11 @@ module.exports = {
             "mongodb://gette:12345@ds027165.mlab.com:27165/heroku_xg45bt2v"
         ],
         "name": "heroku_xg45bt2v",
-        "writeConcern": 1,
-        "query_logging": false
+        "authentication": {
+            "un": "gette",
+            "pw": "12345"
+        },
+        "writeConcern": 1
     },
     "cache": {
         "fake": true,
@@ -31,7 +33,7 @@ module.exports = {
         "port": 6379
     },
     "settings": {
-        "use_memory": false,
+        "use_memory": true,
         "use_cache": false
     },
     "templates": {
@@ -40,7 +42,7 @@ module.exports = {
     },
     "plugins": {
         "caching": {
-            "use_memory": false,
+            "use_memory": true,
             "use_cache": false
         }
     },
