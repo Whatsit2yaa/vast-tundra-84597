@@ -13,7 +13,7 @@ module.exports = {
     "siteName": "Tribal Reconnection",
     "siteRoot": "http://vast-tundra-84597.herokuapp.com",
     "logging": {
-        "level": "debug"
+        "level": "error"
     },
     "db": {
         "type": "mongo",
