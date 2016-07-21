@@ -29,6 +29,7 @@
     "lodash": "4.7.0",
     "mongodb": "^2.1.14",
     "mongodb-core": "^2.0.6",
+    "mongoose": "^4.5.5",
     "node-gyp": "^3.4.0",
     "node-uuid": "1.4.7",
     "node.extend": "1.1.5",
