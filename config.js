@@ -60,10 +60,6 @@ module.exports = {
         "workers": 1,
         "self_managed": true
     },
-    multisite: {
-        enabled: false,
-        globalRoot: "http://global.localhost:8080"
-    },
     "siteIP": "0.0.0.0"
 };
 
