@@ -14,7 +14,7 @@ module.exports = {
     "siteRoot": "http://localhost:8080",
     "sitePort": 8080,
     "logging": {
-        "level": "info"
+        "level": "debug"
     },
     "db": {
         "type": "mongo",
