@@ -25,7 +25,10 @@ module.exports = {
             "un": "gette",
             "pw": "12345"
         },
-        "writeConcern": 1
+        "options": {
+            w: 1
+        },
+        "query_logging": false
     },
     "cache": {
         "fake": true,
