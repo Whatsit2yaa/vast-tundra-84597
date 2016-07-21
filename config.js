@@ -18,7 +18,7 @@ module.exports = {
     "db": {
         "type": "mongo",
         "servers": [
-            "mongodb://gette:12345@ds027165.mlab.com:27165/heroku_xg45bt2v"
+            "mongodb://ds027165.mlab.com:27165/heroku_xg45bt2v"
         ],
         "name": "heroku_xg45bt2v",
         "authentication": {
