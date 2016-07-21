@@ -18,12 +18,12 @@ module.exports = {
     "db": {
         "type": "mongo",
         "servers": [
-            "mongodb://ds027165.mlab.com:27165/heroku_xg45bt2v"
+            "mongodb://heroku_xg45bt2v:liiqtfg0q7qs4p1cb48qgqdsse@ds027165.mlab.com:27165/heroku_xg45bt2v"
         ],
         "name": "heroku_xg45bt2v",
         "authentication": {
-            "un": "heroku_xg45bt2v",
-            "pw": "liiqtfg0q7qs4p1cb48qgqdsse"
+            "un": "gette",
+            "pw": "12345"
         },
         "writeConcern": 1
     },
