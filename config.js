@@ -11,7 +11,7 @@
 
 module.exports = {
     "siteName": "Tribal Reconnection",
-    "siteRoot": "http://www.tribal-reconnection.com",
+    "siteRoot": "http://vast-tundra-84597.herokuapp.com",
     "logging": {
         "level": "debug"
     },
