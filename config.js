@@ -19,9 +19,9 @@ module.exports = {
     "db": {
         "type": "mongo",
         "servers": [
-            "mongodb://127.0.0.1:27017/"
+            "mongodb://gette:12345@ds027165.mlab.com:27165/heroku_xg45bt2v"
         ],
-        "name": "tribal",
+        "name": "heroku_xg45bt2v",
         "writeConcern": 1,
         "query_logging": false
     },
