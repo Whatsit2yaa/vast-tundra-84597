@@ -515,3 +515,17 @@
 {"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:12:47.151Z"}
 {"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:12:47.745Z"}
 {"level":"debug","message":"System[M]: Worker [9] disconnected","timestamp":"2016-07-21T19:12:47.920Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:25:36.481Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2016-07-21T19:25:37.144Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:25:37.444Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:25:38.053Z"}
+{"level":"debug","message":"System[M]: Worker [1] disconnected","timestamp":"2016-07-21T19:25:38.260Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:25:38.561Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:25:39.162Z"}
+{"level":"debug","message":"System[M]: Worker [2] disconnected","timestamp":"2016-07-21T19:25:39.334Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:25:39.633Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:25:40.254Z"}
+{"level":"debug","message":"System[M]: Worker [3] disconnected","timestamp":"2016-07-21T19:25:40.439Z"}
+{"level":"info","message":"SystemStartup: Log Level is: debug","timestamp":"2016-07-21T19:25:40.747Z"}
+{"level":"debug","message":"Localization: Supporting - [\"cs-CZ\",\"de-DE\",\"en-US\",\"es-ES\",\"fa-IR\",\"fr-FR\",\"nl-BE\",\"pl-PL\",\"pt-BR\",\"ro-RO\",\"ru-RU\",\"zh-CN\"]","timestamp":"2016-07-21T19:25:41.349Z"}
+{"level":"debug","message":"System[M]: Worker [4] disconnected","timestamp":"2016-07-21T19:25:41.515Z"}
