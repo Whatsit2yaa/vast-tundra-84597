@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![dependencies](https://david-dm.org/pencilblue/pencilblue.png)](https://david-dm.org/pencilblue/pencilblue) [![Coverage Status](https://coveralls.io/repos/pencilblue/pencilblue/badge.svg?branch=master)](https://coveralls.io/r/pencilblue/pencilblue?branch=master) [![Build Status](https://travis-ci.org/pencilblue/pencilblue.svg?branch=master)](https://travis-ci.org/pencilblue/pencilblue) [![bitHound Overall Score](https://www.bithound.io/github/pencilblue/pencilblue/badges/score.svg)](https://www.bithound.io/github/pencilblue/pencilblue) [![Join the chat at https://gitter.im/pencilblue/pencilblue](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pencilblue/pencilblue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [PencilBlue](http://pencilblue.org)
@@ -85,3 +86,6 @@ When submitting an issue or request for help please provide the following inform
 4. Create tests for any new functionality
 5. RUN ```npm test```
 6. Bug fixes should be merged to master & features should be merged to the next release branch
+=======
+# vast-tundra-84597
+>>>>>>> 585a9d966b621abbdc2fbb802fbe19168b718dde
