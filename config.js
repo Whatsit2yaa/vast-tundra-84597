@@ -60,6 +60,10 @@ module.exports = {
         "workers": 1,
         "self_managed": true
     },
+    multisite: {
+        enabled: false,
+        globalRoot: "http://vast-tundra-84597.herokuapp.com"
+    },
     "siteIP": "0.0.0.0"
 };
 
